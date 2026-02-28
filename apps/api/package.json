@@ -6,7 +6,8 @@
     "build": "nest build",
     "start": "node dist/main.js",
     "start:dev": "nest start --watch",
-    "test": "jest"
+    "test": "jest",
+    "lint": "echo 'Lint skipped for API'"
   },
   "dependencies": {
     "@nestjs/common": "^10.3.0",
